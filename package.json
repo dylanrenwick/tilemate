@@ -1,0 +1,23 @@
+{
+  "name": "tilemate",
+  "version": "1.0.0",
+  "description": "Browser-based 2D Tilemap editor",
+  "main": "bin/Tilemate.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jquery": "^3.3.31",
+    "gulp": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-typescript": "^5.0.1",
+    "rimraf": "^3.0.0",
+    "typescript": "^3.7.2",
+    "webpack-stream": "^5.2.1"
+  },
+  "dependencies": {
+    "golden-layout": "^1.5.9"
+  }
+}
