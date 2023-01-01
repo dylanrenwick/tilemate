@@ -15,7 +15,7 @@
     "gulp-typescript": "^5.0.1",
     "rimraf": "^3.0.0",
     "typescript": "^3.7.2",
-    "webpack-stream": "^5.2.1"
+    "webpack-stream": "^7.0.0"
   },
   "dependencies": {
     "golden-layout": "^1.5.9"
